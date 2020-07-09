@@ -19,7 +19,8 @@ We were able to figure out a way to:
 * Build a [Laravel](https://laravel.com/) JSON API
 * Create a [Vue.js](https://vuejs.org/) web front-end
 * Generate iOS and Android Apps with [CapacitorJS](https://capacitorjs.com/)
-* **All from the same codebase 😱** 
+* **All from the same codebase 😱**
+#### [Get the book →](https://serversideup.net/ultimate-guide-to-building-apis-and-spas-with-laravel-and-vuejs/)
 
 ## I do a lot more than sit at a keyboard all day...
 
