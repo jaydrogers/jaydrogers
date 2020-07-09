@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="51px" viewBox="0 0 36 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Strava</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.5375 0.3025 22.165 0.3025 22.165 21.6166667 0.5375 21.6166667"></polygon>
+    </defs>
+    <g id="01.00:-Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HD_00:-Homepage" transform="translate(-1066.000000, -788.000000)">
+            <g id="Right-Side" transform="translate(820.000000, 164.000000)">
+                <g id="Stay-In-touch" transform="translate(67.000000, 570.000000)">
+                    <g id="Social" transform="translate(77.000000, 54.000000)">
+                        <g id="Strava" transform="translate(102.000000, 0.000000)">
+                            <g id="Group-3" transform="translate(13.333333, 28.679167)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Clip-2"></g>
+                                <polyline id="Fill-1" fill="#DE4A2A" mask="url(#mask-2)" points="11.375 8.95583333 6.97166667 0.3025 0.5375 0.3025 11.4066667 21.6666667 22.165 0.3025 15.7191667 0.3025 11.375 8.95583333"></polyline>
+                            </g>
+                            <polyline id="Fill-4" fill="#DE4A2A" points="14.4816667 17.0483333 20.3941667 28.6791667 29.0241667 28.6791667 14.4383333 6.03961325e-14 -4.08562073e-14 28.6791667 8.64333333 28.6791667 14.4816667 17.0483333"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
