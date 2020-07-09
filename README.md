@@ -6,8 +6,7 @@ I’m a DevOps engineer who accidentally ended up in application & user-experien
 ## What I am working on now
 <p>
     <a href="https://521dimensions.com/" target="_blank"><img width="400" src="https://raw.githubusercontent.com/jaydrogers/jaydrogers/master/img/521dimensions.svg"></a><br/>
-    In 2011, my friend @danpastori and I started a software development agency called 521 Dimensions. We
-    kept the company to just us two. This forced us to learn how to develop software very efficiently.
+    In 2011, my friend <a href="https://github.com/danpastori">@danpastori</a> and I started a software development agency called 521 Dimensions. We kept the company to just us two. This forced us to learn how to develop software very efficiently.
 </p>
 
 <p>
@@ -17,6 +16,8 @@ I’m a DevOps engineer who accidentally ended up in application & user-experien
 
 ## My Next Release
 ### 📕 [The Ultimate Guide To Building APIs & SPAs](https://serversideup.net/ultimate-guide-to-building-apis-and-spas-with-laravel-and-vuejs/)
+[![Ultimate Guide to Building APIs & SPAs](https://raw.githubusercontent.com/jaydrogers/jaydrogers/master/img/book.png)](https://serversideup.net/ultimate-guide-to-building-apis-and-spas-with-laravel-and-vuejs/)
+
 We're releasing a book on how we structure our software for web & mobile apps. Since we only have a two person team, we need our development processs to be quick & easy!
 
 We were able to figure out a way to:
