@@ -11,7 +11,7 @@ I’m a DevOps engineer who accidentally ended up in application & user-experien
 
 <p>
     <a href="https://serversideup.net/" target="_blank"><img width="250" src="https://raw.githubusercontent.com/jaydrogers/jaydrogers/master/img/serversideup.svg"></a><br/>
-    We took the experience that we gained in 521 Dimensions and created a blog called Server Side Up to help other developers create quality software using open-source tools.
+    We took the experience that we gained in 521 Dimensions and created a blog called Server Side Up. Our mission is to help other developers create quality software using open-source tools.
 </p>
 
 ## My Next Release
