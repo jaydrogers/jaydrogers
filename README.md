@@ -6,7 +6,7 @@ I’m a DevOps engineer who accidentally ended up in application & user-experien
 ## What I am working on now
 <p>
     <a href="https://521dimensions.com/" target="_blank"><img width="400" src="https://raw.githubusercontent.com/jaydrogers/jaydrogers/master/img/521dimensions.svg"></a><br/>
-    In 2011, my friend [@danpastori](https://github.com/danpastori) and I started a software development agency called 521 Dimensions. We
+    In 2011, my friend @danpastori and I started a software development agency called 521 Dimensions. We
     kept the company to just us two. This forced us to learn how to develop software very efficiently.
 </p>
 
