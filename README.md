@@ -4,12 +4,16 @@
 I’m a DevOps engineer who accidentally ended up in application & user-experience design. 🤖🎨
 
 ## What I am working on now
-### [521 Dimensions](https://521dimensions.com)
-In 2011, my friend [@danpastori](https://github.com/danpastori) and I started a software development agency called 521 Dimensions. We
-kept the company to just us two. This forced us to learn how to develop software very efficiently.
+<p>
+    <a href="https://521dimensions.com/" target="_blank"><img width="400" src="https://raw.githubusercontent.com/jaydrogers/jaydrogers/master/img/521dimensions.svg"></a>
+    In 2011, my friend [@danpastori](https://github.com/danpastori) and I started a software development agency called 521 Dimensions. We
+    kept the company to just us two. This forced us to learn how to develop software very efficiently.
+</p>
 
-### [Server Side Up](https://serversideup.net)
-We took the experience that we gained in 521 Dimensions and created a blog called Server Side Up to help other developers create quality software using open-source tools.
+<p>
+    <a href="https://serversideup.net/" target="_blank"><img width="400" src="https://raw.githubusercontent.com/jaydrogers/jaydrogers/master/img/serversideup.svg"></a>
+    We took the experience that we gained in 521 Dimensions and created a blog called Server Side Up to help other developers create quality software using open-source tools.
+</p>
 
 ## My Next Release
 ### 📕 [The Ultimate Guide To Building APIs & SPAs](https://serversideup.net/ultimate-guide-to-building-apis-and-spas-with-laravel-and-vuejs/)
