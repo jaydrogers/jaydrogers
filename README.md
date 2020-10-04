@@ -38,6 +38,7 @@ We were able to figure out a way to:
 * 🏄‍ I was on a national champion waterskiing team for 14 years
 * ❄️ I’ve snowmobiled more than 20,000 miles across the US
 * 🤓 I enjoy hours-long conversations about history
+* 🦸 I am Superman
 
 ## Let's stay in touch!
 * [Twitter](https://twitter.com/jaydrogers)
